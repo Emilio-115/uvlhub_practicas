@@ -1,1 +1,3 @@
 Este es el archivo con el bug inicial.
+La línea con el fix (Bug Solucionado).
+Linea adicional para el parche
